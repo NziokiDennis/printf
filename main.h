@@ -1,4 +1,5 @@
 #ifndef MAIN_H
+<<<<<<< HEAD
 
 #define MAIN_H
 
@@ -220,3 +221,10 @@ long int convert_size_unsgnd(unsigned long int num, int size);
 
 
 #endif /* MAIN_H */
+=======
+#define MAIN_H
+
+int _putchar(char c);
+
+#endif
+>>>>>>> 00eaa55e88ccb5ada7e9edce17d1c68ff3eae113
